@@ -1,0 +1,6 @@
+19:40:52.898 [main] INFO  com.mindtree.Testcases.TestRunner - Logged in
+19:41:14.044 [main] INFO  com.mindtree.Testcases.TestRunner - The address of the store is obtained
+19:41:21.352 [main] INFO  com.mindtree.Testcases.TestRunner - The count is printed
+19:41:31.964 [main] INFO  com.mindtree.Testcases.TestRunner - The size of the seat is specified
+19:41:38.419 [main] INFO  com.mindtree.Testcases.TestRunner - The name of wardrobe is printed
+19:41:41.708 [main] INFO  com.mindtree.Testcases.TestRunner - Value is validated

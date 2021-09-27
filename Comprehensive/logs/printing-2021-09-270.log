@@ -1,0 +1,6 @@
+17:23:21.459 [main] INFO  com.mindtree.Testcases.TestRunner - Driver is initialized
+17:23:29.007 [main] INFO  com.mindtree.Testcases.TestRunner - Driver is navigated to Web page
+17:23:32.383 [main] INFO  com.mindtree.Testcases.TestRunner - Logged in
+17:23:46.007 [main] INFO  com.mindtree.Testcases.TestRunner - The address of the store is obtained
+17:23:49.655 [main] INFO  com.mindtree.Testcases.TestRunner - The count is printed
+17:24:00.960 [main] INFO  com.mindtree.Testcases.TestRunner - The size of the seat is specified

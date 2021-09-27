@@ -1,0 +1,6 @@
+21:04:36.768 [main] INFO  com.mindtree.Testcases.TestRunner - Driver is initialized
+21:04:42.315 [main] INFO  com.mindtree.Testcases.TestRunner - Driver is navigated to Web page
+21:05:06.986 [main] INFO  com.mindtree.Testcases.TestRunner - The address of the store is obtained
+21:05:11.433 [main] INFO  com.mindtree.Testcases.TestRunner - The count is printed
+21:05:20.492 [main] INFO  com.mindtree.Testcases.TestRunner - The size of the seat is specified
+21:05:25.388 [main] INFO  com.mindtree.Testcases.TestRunner - The name of wardrobe is printed

@@ -1,0 +1,4 @@
+17:24:06.183 [main] INFO  com.mindtree.Testcases.TestRunner - The name of wardrobe is printed
+17:24:09.858 [main] INFO  com.mindtree.Testcases.TestRunner - Value is validated
+17:24:13.720 [main] INFO  com.mindtree.Testcases.TestRunner - The results count is printed
+17:24:30.985 [main] INFO  com.mindtree.Testcases.TestRunner - Driver is closed
